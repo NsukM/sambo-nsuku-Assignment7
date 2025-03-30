@@ -36,7 +36,6 @@ Issues are linked to the Kanban board and labeled for Agile sprint clarity:
 
 ## Screenshots
 
-Screenshots are included under the `screenshots/` folder:
 
 - `template_comparison.png`: Comparison of available GitHub templates
 - `custom_kanban_board.png`: My customized board with linked issues
