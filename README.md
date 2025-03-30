@@ -47,6 +47,6 @@ Screenshots are included under the `screenshots/` folder:
 
 - **Name**: Nsuku Sambo  
 - **Student Number**: 221358986  
-- **Module**: Research Methods RMS580S  
+- **Module**: Software Engineering 
 - **Assignment**: 7  
 - **Goal**: Demonstrate GitHub project and Agile workflow mastery
